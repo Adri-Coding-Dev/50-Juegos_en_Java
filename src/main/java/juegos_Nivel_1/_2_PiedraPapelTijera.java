@@ -2,7 +2,7 @@ package juegos_Nivel_1;
 
 import java.util.Scanner;
 
-public class PiedraPapelTijera {
+public class _2_PiedraPapelTijera {
     private static int cantidadRounds = 3;
     private static int contadorRounds = 0;
 

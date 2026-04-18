@@ -2,7 +2,7 @@ package juegos_Nivel_1;
 
 import java.util.Scanner;
 
-public class AdivinaElNumero {
+public class _1_AdivinaElNumero {
     private static int contadorIntentos = 0;
     public static void main(String[] args){
         //Variables del juego
